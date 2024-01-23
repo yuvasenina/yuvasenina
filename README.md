@@ -4,13 +4,13 @@
  
  My priorities:
  
- *clean code practices, 
+ * clean code practices, 
  
- *reliable code, 
+ * reliable code, 
  
- *good UI/UX, 
+ * good UI/UX, 
  
- *continuous learning.
+ * continuous learning.
 
  
 
