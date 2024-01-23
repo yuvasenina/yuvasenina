@@ -1,10 +1,15 @@
 ### Hello,  I'm Yuliya, 
 
  I am a Web developer with 2 years experience in React/Typescript and 6 years of IT project management. 
+ 
  My priorities:
- *clean code practices,  
+ 
+ *clean code practices, 
+ 
  *reliable code, 
+ 
  *good UI/UX, 
+ 
  *continuous learning.
 
  
